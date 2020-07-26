@@ -1,6 +1,6 @@
 # Prediction Algorithim
 
-##Problem Statement
+## Problem Statement
 > To predict the COVID-19 positive cases from the 25th of 27 July to 15 August.
 ## Data
 > We collected the data from  [..]() 
