@@ -11,6 +11,17 @@
 - cases 
 - deaths
 - region
+1. About the Covid 19: 
+COVID-19 is an infectious disease caused by the recently found virus known as SARS-CoV-2 (or coronavirus). Before the outbreak originated in Wuhan, China on December 2019, there was no information about this virus
+The COVID-19 disease has been reported in approximately 215 countries and territories worldwide.
+
+2. US STATS ABOUT COVID-19: 
+With about 2.5 million coronavirus cases, the US has the highest number of confirmed infections in the world - about a quarter of the global total.
+The situation got really bad in late March but by May, cases were declining and most states had begun to ease restrictions put into place to halt the spread of the virus.
+
+3. The goal of the project is to develop a predictive algorithm to predict the number of positive cases in the US between 7/27/20 - 8/15/20.
+
+4. Conclusion of the actions we took
 
 #### Modelling
 We used an RNN model for this. We defined a class called RNN with specified parameters - input_size, output_size, hidden_di and n_layers.
